@@ -50,7 +50,7 @@ fun ComponentePrincipal() {
                 )
                 Spacer(modifier = Modifier.width(16.dp))
                 Column (modifier = Modifier.weight(1f)) {
-                    Text(text = "Jaime Alejandro Vega Barbosa")
+                    Text(text = "José Alejandro Téllez Prada")
                     Text(text = "Ing. Sistemas")
                 }
                 IconButton(onClick = {}) {
@@ -93,4 +93,5 @@ fun ComponentePrincipal() {
             Text(text = "Seleccionar")
         }
     }
+
 }
